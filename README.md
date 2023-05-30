@@ -1,9 +1,9 @@
-# SelectionMovie (https://github.com/SnooPyn/SelectionMovie/blob/main/Image/logo_width.png)
+![Selection Movie-removebg-preview](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/logo_width.png)
 # PopcornForMovies
 ## Contributors
 
-- [SnooPyn] [Беллазрег Анис]
-- [Ahmat-Samit96] [Ахмат Самит]
+- [@SnooPyn] [Беллазрег Анис]
+- [@Ahmat-Samit96] [Ахмат Самит]
 ## Description
 
 ## Technologies
