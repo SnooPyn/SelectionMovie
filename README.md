@@ -5,7 +5,12 @@
 - [@SnooPyn](https://github.com/SnooPyn) [Беллазрег Анис]
 - [@Ahmat-Samit96](https://github.com/Ahmat-Samit96) [Ахмат Самит]
 ## Description
+***YOUR DECISION IS OUR PRIORITY - LET US HELP. <br/>***
+Looking for help in choosing a good movie? Look no further than Popcorn! With hundreds of films released each month, it can be difficult to find the ones that match your interests and preferences. That's where Popcorn comes in. Our website lists movies by actors and categories, including horror, romance, drama, action, and thriller, making it easy to find what you're looking for.
 
+But how do you know which movies are worth watching? That's where our movie reviews come in. They provide a detailed insight into the story, helping you make an informed decision. And if you want to share your own opinions, you can become a reviewer on our website as well.
+
+But what sets us apart is our movie recommendation feature. Using advanced technology, we can recommend movies based on your emotions when you upload your photos. So whether you're feeling happy, sad, or somewhere in between, we can help you find the perfect movie for your mood.
 ## Technologies
 
 - [ReactJS] - JS library for frontend development
