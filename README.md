@@ -2,8 +2,8 @@
 # PopcornForMovies
 ## Contributors
 
-- [@SnooPyn] [Беллазрег Анис]
-- [@Ahmat-Samit96] [Ахмат Самит]
+- [@SnooPyn](https://github.com/SnooPyn) [Беллазрег Анис]
+- [@Ahmat-Samit96](https://github.com/Ahmat-Samit96) [Ахмат Самит]
 ## Description
 
 ## Technologies
