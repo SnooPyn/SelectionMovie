@@ -48,14 +48,14 @@ Third-Party API:
 - Admin CRUD operations
 
 ### Dashboard
-![Dashboard](https://github.com/SnooPyn/MoviePicker/blob/main/Image/Dashboard.png)
+![Dashboard](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/Dashboard.png)
 ### Movie Preview
-![MoviePreview](https://github.com/SnooPyn/MoviePicker/blob/main/Image/MoviePreview.png)
+![MoviePreview](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/MoviePreview.png)
 ### Search
-![Search](https://github.com/SnooPyn/MoviePicker/blob/main/Image/Search.png)
+![Search](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/Search.png)
 ### My List
-![MyList](https://github.com/SnooPyn/MoviePicker/blob/main/Image/MyList.png)
+![MyList](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/MyList.png)
 ### Log in
-![MyList](https://github.com/SnooPyn/MoviePicker/blob/main/Image/Login.png)
+![MyList](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/Login.png)
 ### Sign up
-![MyList](https://github.com/SnooPyn/MoviePicker/blob/main/Image/SignUp.png)
+![MyList](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/SignUp.png)
