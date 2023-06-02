@@ -17,7 +17,7 @@ describe('Footer component', () => {
     useLocation.mockImplementation(() => ({ pathname: '/' }));
     const { getByText, getByAltText } = render(<Footer />)
     expect(getByAltText('popcorn')).toBeInTheDocument()
-    expect(getByText('Ⓒ2022 POPCORN')).toBeInTheDocument()
+    expect(getByText('Ⓒ2023 POPCORN')).toBeInTheDocument()
   })
 
   it('should navigate to the home page when logo is clicked', () => {
