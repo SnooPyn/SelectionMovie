@@ -23,11 +23,6 @@ But what sets us apart is our movie recommendation feature. Using advanced techn
   - Framework: React (Redux)
   - CSS 
     - Preprocessors: Sass
-  - Testing
-    - unit-test : Jest
-    - e2e-test : Cypress 
-  - Module Loader/Bundler
-    - Webpack
 
 ## Resource
 Google font: https://fonts.google.com/
