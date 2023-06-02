@@ -49,7 +49,7 @@ Third-Party API:
 ### Search
 ![Search](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/Search.jpg?raw=true)
 ### My List
-![MyList](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/MyList.jpg?raw=true)
+![MyList](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/MyList.jpg)
 ### Log in
 ![MyList](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/Login.png)
 ### Sign up
