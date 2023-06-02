@@ -19,7 +19,7 @@ const Footer = () => {
                 <img src={logo} alt='popcorn' />
                 <p>Popcorn</p>
             </div>
-            <a className='github-source' rel="noreferrer" href='https://github.com/kaitouz/MoviePicker' target='_blank'>
+            <a className='github-source' rel="noreferrer" href='https://github.com/SnooPyn/SelectionMovie' target='_blank'>
                 <img src={github_logo} alt='source-code'></img>
             </a>
 
