@@ -43,11 +43,11 @@ Third-Party API:
 - Admin CRUD operations
 
 ### Dashboard
-![Dashboard](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/Dashboard.jpg?raw=true)
+![Dashboard](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/Dashboard.jpg)
 ### Movie Preview
-![MoviePreview](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/MoviePreview.jpg?raw=true)
+![MoviePreview](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/MoviePreview.jpg)
 ### Search
-![Search](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/Search.jpg?raw=true)
+![Search](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/Search.jpg)
 ### My List
 ![MyList](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/MyList.jpg)
 ### Log in
