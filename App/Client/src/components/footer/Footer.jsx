@@ -14,7 +14,7 @@ const Footer = () => {
 
     return (
         <div className='footer' style={hide ? { display: 'none' } : null}>
-            <div className='copyright'>Ⓒ2022 POPCORN</div>
+            <div className='copyright'>Ⓒ2023 POPCORN</div>
             <div className='foot-logo' onClick={() => navigate('/')}>
                 <img src={logo} alt='popcorn' />
                 <p>Popcorn</p>
