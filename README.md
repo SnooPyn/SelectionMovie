@@ -43,7 +43,7 @@ Third-Party API:
 - Admin CRUD operations
 
 ### Dashboard
-![Dashboard](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/Dashboard.png)
+![Dashboard](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/Dashboard.jpg?raw=true)
 ### Movie Preview
 ![MoviePreview](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/MoviePreview.png)
 ### Search
