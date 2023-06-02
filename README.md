@@ -45,11 +45,11 @@ Third-Party API:
 ### Dashboard
 ![Dashboard](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/Dashboard.png)
 ### Movie Preview
-![MoviePreview](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/MoviePreview.jpg)
+![MoviePreview](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/MoviePreview.png)
 ### Search
-![Search](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/Search.jpg)
+![Search](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/Search.png)
 ### My List
-![MyList](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/MyList.jpg)
+![MyList](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/MyList.png)
 ### Log in
 ![MyList](https://github.com/SnooPyn/SelectionMovie/blob/main/Image/Login.png)
 ### Sign up
