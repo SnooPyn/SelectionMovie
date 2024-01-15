@@ -2,8 +2,6 @@
 # PopcornForMovies
 ## Contributors
 
-- [@SnooPyn](https://github.com/SnooPyn) [Беллазрег Анис] [K33402]
-- [@Ahmat-Samit96](https://github.com/Ahmat-Samit96) [Ахмат Самит] [K33402]
 ## Description
 ***YOUR DECISION IS OUR PRIORITY - LET US HELP. <br/>***
 Looking for help in choosing a good movie? Look no further than Popcorn! With hundreds of films released each month, it can be difficult to find the ones that match your interests and preferences. That's where Popcorn comes in. Our website lists movies by actors and categories, including horror, romance, drama, action, and thriller, making it easy to find what you're looking for.
